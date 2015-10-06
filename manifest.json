@@ -4,6 +4,8 @@
   "name": "meowbook",
   "description": "meow",
   "version": "1.0",
+  "icons": {"48": "icon_48.png",
+            "128": "icon_128.png"},
   "permissions": [
     "tabs", "http://*/*"
   ],
